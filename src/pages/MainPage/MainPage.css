@@ -1,0 +1,68 @@
+.main-page {
+    display: block;
+    padding: 20px;
+}
+
+.main-title {
+    color: #e2e6d7;
+    text-transform: uppercase;
+    margin: 20px;
+}
+
+.text-input {
+    border: none;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    padding: 14px;
+    width: 40%;
+    outline: none;
+}
+
+.button-find {
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 11px 11px 14px 11px;
+    background-color: #f4f4f4;
+    cursor: pointer;
+}
+
+.button-show-more {
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 10px 15px;
+    outline: none;
+    border: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition-delay: 0.1s;
+}
+
+.button-show-more:hover {
+    background-color: #b5bba4;
+}
+
+.icon-find {
+   width: 15px;
+   height: 15px;
+}
+
+.options {
+    display: flex;
+    justify-content: center;
+}
+
+.select {
+    border: none;
+    padding: 13px;
+    outline: none;
+    width: 20%;
+    margin: 20px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #333;
+}
+
+.books-length {
+    color: #fff;
+}

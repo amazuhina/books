@@ -1,0 +1,49 @@
+.book-page {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    width: 80%;
+}
+
+.image-block {
+    background-color: #eee;
+    padding: 20px;
+    width: 30%;
+}
+
+.image-book {
+    width: 80%;
+}
+
+.information {
+    display: block;
+    padding: 15px;
+    background-color: #fff;
+    width: 70%;
+}
+
+.description {
+    padding: 20px;
+    background-color: #e2e6d7;
+}
+
+.title-block {
+    display: flex;
+}
+
+.icon-back-btn {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.icon-back {
+    width: 20px;
+    height: 20px;
+}
